@@ -1,2 +1,2 @@
 # vmpack
-VMPack The Universal Code Package Util for Cloud Distribution.
+VMPack The Universal Package Util for Cloud Distribution and Baremetal.
